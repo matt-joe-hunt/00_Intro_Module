@@ -73,6 +73,6 @@ My hope is that you will find some use in 'poking' this implementation to see ho
 
 Grouped and listed in a logical order, though this can be deviated from.
 
-- [01_EC2_Example](../01_EC2_Example/README.md)
+- [01_EC2_Example](01_EC2_Example)
 - EC2_with_VPC_Example
 - 
